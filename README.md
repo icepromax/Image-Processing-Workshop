@@ -4,3 +4,6 @@
 并且附有gan的学习资料。
 
 对于后端所用模型，可在网站查看模型介绍进行下载或者训练，训练代码上传。
+
+下面是页面展示
+<img width="1270" alt="image" src="https://github.com/user-attachments/assets/c5f598b9-623c-442d-82cc-a018a8a15eec" />
