@@ -1,0 +1,12 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+torch==2.1.0+cu121  #cpu版本也可运行，当速度相对较慢,其它torch版本可自行测试
+torchvision==0.16.0+cu121
+opencv-python-headless>=4.5.3
+numpy==1.23.5
+basicsr>=1.3.5
+python-multipart
+Pillow>=9.0.0
+matplotlib>=3.4.3
+pandas==2.2.3
+realesrgan
